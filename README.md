@@ -1,6 +1,7 @@
 This is a simple Telegram Todo Bot that allows the user to save some notes in the list.
 
 Following are the tasks that can be performed by the Bot:
+
 ADD - Adds todos to the list.
 VIEW - Lists all todos.
 DONE - Marks todos as complete.
