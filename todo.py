@@ -4,7 +4,7 @@ import logging
 import json
 import os
 PORT = int(os.environ.get('PORT',5000))
-TOKEN = '1318807084:AAESJfn9cQGkxhQIauhPYUjKOjYvWYEIFjY'
+TOKEN = 'give your API Key here'
 updater = Updater(token = TOKEN,use_context = True)
 dispatcher = updater.dispatcher
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
